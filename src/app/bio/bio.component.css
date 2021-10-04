@@ -1,0 +1,33 @@
+.info {
+  display: block;
+  color: #72ab00;
+}
+.container {
+  padding-top: 40px;
+  width: 90%;
+}
+h1 {
+  color: #72ab00;
+  font-weight: bolder;
+}
+h3 {
+  color: #72ab00;
+}
+.vl {
+  border-left: 1px solid #cdcdcd;
+  height: 100px;
+}
+.bio {
+  padding-top: 20px;
+  border: solid 1px #cdcdcd;
+  border-radius: 5px;
+  background-color: #f8f8f8;
+  padding-bottom: 40px;
+}
+.about {
+  padding-top: 40px;
+}
+.profileImage {
+  padding: 10px 10px 10px 10px;
+  width: 70%;
+}
